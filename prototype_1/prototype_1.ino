@@ -1,5 +1,4 @@
 #include <AFMotor.h>
-#include <MotorPrototype1.h>
 
 //Pins for HC-SR04
 #define trigPin 51
